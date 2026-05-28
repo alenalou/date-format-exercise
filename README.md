@@ -31,4 +31,4 @@ To make the task more enjoyable, a ⏲-timer and some 🐈‍ + 🚌 animation w
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [date-format-exercise]: <https://alenagm.github.io/date-format-exercise/>
+   [date-format-exercise]: <https://alenalou.github.io/date-format-exercise/>
